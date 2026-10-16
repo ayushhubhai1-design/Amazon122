@@ -1,0 +1,23 @@
+# Core dependencies used by 1.py
+requests
+urllib3
+beautifulsoup4
+lxml
+
+# Performance / optional source integrations
+curl_cffi
+aiosqlite
+cloudscraper
+uvloop
+orjson
+feedparser
+
+# Optional notifications, metrics, API, and cache features
+pydub
+prometheus-client
+Pillow
+redis
+websockets
+fastapi
+uvicorn
+httpx

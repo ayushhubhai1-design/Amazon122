@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+*.log
+glitch_hunter_status.json
+amazon_cookies.json
+control.json
+config_override.json
